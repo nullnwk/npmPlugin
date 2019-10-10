@@ -80,7 +80,7 @@ function setGulpCommon() {
 function swallowError(error) {
   // If you want details of the error in the console
   console.error(error.toString())
-  this.emit('end')
+  this.emit('end');
 }
 
 
