@@ -1,0 +1,11 @@
+#### 使用
+- npm i web_niu_gulp
+---
+- 目录解构（固定）:
+  - src
+    - html    //html文件
+    - css     //css文件
+    - js      //js文件
+    - images  //图片
+    - lib     //插件
+    - common  //共用文件
